@@ -1,9 +1,9 @@
 const cacheName = "Ambition _ Flow-TelegramGame-1.0";
 const contentToCache = [
     "Build/TelegramGame.loader.js",
-    "Build/TelegramGame.framework.js.gz",
-    "Build/TelegramGame.data.gz",
-    "Build/TelegramGame.wasm.gz",
+    "Build/TelegramGame.framework.js",
+    "Build/TelegramGame.data",
+    "Build/TelegramGame.wasm",
     "TemplateData/style.css"
 
 ];
